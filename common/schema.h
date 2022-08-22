@@ -417,6 +417,8 @@ namespace swss {
 
 #define CFG_CHASSIS_MODULE_TABLE                    "CHASSIS_MODULE"
 
+#define CFG_LOGGING_TABLE_NAME                      "LOGGING"
+
 #define CFG_DHCP_TABLE                              "DHCP_RELAY"
 
 #define CFG_FLOW_COUNTER_ROUTE_PATTERN_TABLE_NAME   "FLOW_COUNTER_ROUTE_PATTERN"
